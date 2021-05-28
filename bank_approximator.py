@@ -21,5 +21,3 @@ def calcrate():
 
 
 print(calcrate())
-
-
