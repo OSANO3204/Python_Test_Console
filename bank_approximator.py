@@ -19,5 +19,4 @@ def calcrate():
         print("Thank you ", fname, " come again next time!!")
         return ''
 
-
 print(calcrate())
