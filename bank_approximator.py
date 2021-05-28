@@ -14,7 +14,7 @@ def calcrate():
         interestincome1final=interestincome1/100
         totalamnt=amnt +interestincome1final
         final_total=totalamnt *rate * rateyear
-        print( "Your income/profit by the end of " ,rateyear, " year(s)  provincially ,therefore "
+        print( "Your income/profit by the end of " ,rateyear, " year(s)  is therefore "
         "your total earnings will be ", final_total)
 
 
