@@ -21,13 +21,3 @@ def calcrate():
 print(calcrate())
 
 
-"""def circlearea( ):
-    PI=3.14285714285
-    r= int(input("Enter the radius :"))
-    h=int(input("Enter the radius :"))
-    
-    area=PI*r* r*h
-    area1="{:.2f}".format(area)
-    print("Area of circle is approximately:", area1)
-
-print(circlearea())"""
